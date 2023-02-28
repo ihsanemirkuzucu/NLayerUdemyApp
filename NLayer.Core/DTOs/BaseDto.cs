@@ -12,3 +12,4 @@ namespace NLayer.Core.DTOs
         public DateTime CreatedDate { get; set; }
     }
 }
+//
