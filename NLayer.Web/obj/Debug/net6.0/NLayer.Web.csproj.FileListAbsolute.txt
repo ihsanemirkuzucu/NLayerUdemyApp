@@ -272,3 +272,6 @@ C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\bin\Deb
 C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Core.pdb
 C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.CopyComplete
+C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Autofac.dll
+C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ihsan\Desktop\Code Bloks\C# .NET 2023\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
